@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1627473089 source:c:\users\administrador\desktop\nueva carpeta\ordenar\recuperatorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1627472951 source:c:\users\administrador\desktop\nueva carpeta\ordenar\recuperatorio\lib.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1627473180 c:\users\administrador\desktop\nueva carpeta\ordenar\recuperatorio\lib.h
+
+1627481410 source:c:\users\administrador\desktop\recuperatorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+	"hardcodeo.h"
+
+1627481466 c:\users\administrador\desktop\recuperatorio\lib.h
+	"Genericas.h"
+
+1627235750 c:\users\administrador\desktop\recuperatorio\genericas.h
+
+1627482506 source:c:\users\administrador\desktop\recuperatorio\genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<Ctype.h>
+	"Genericas.h"
+
+1627482993 source:c:\users\administrador\desktop\recuperatorio\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
+1627479362 source:c:\users\administrador\desktop\recuperatorio\hardcodeo.c
+	"hardcodeo.h"
+
+1627479235 c:\users\administrador\desktop\recuperatorio\hardcodeo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
